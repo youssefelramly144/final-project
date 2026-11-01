@@ -1,16 +1,15 @@
-# [Egyptian Labor Market & Migration]
+# [Egypt's Labor Market & The Future of Jobs]
 ### _[Analyzing the Relationship Between Egypt’s Labor Market and Migration]_
 
 ---
 ##  Project Overview
-This project analyzes the evolution of Egypt’s labor market and its relationship with Egyptian migration for work abroad over time.
+This project explores the evolution of Egypt's labor market and examines the relationship between workforce characteristics and changing job market requirements.
 
-The analysis combines labor market indicators such as labor force, employment, and unemployment with migration and work-abroad data to identify major trends, patterns, and relationships across different years.
+The analysis covers labor force data from 2010 to 2025, focusing on employment, unemployment, educational attainment, gender differences, urban-rural disparities, and regional variations across Egyptian governorates.
 
-The project also explores the main destinations of Egyptian workers abroad and, where available, their characteristics such as occupation, education, gender, and age.
+The project also incorporates occupational outlook data to investigate the educational qualifications, skills, and competencies required across different occupations and geographic regions, alongside expected occupational trends up to 2030.
 
-The final results will be presented through data analysis, statistical insights, and an interactive dashboard to provide a clear understanding of how Egypt’s domestic labor market and migration patterns have changed over time.]
-
+By combining workforce statistics with occupational requirements, the project aims to identify potential gaps between available workforce qualifications and labor market demands.
 ---
 
 ##  Team Members
@@ -37,11 +36,14 @@ The final results will be presented through data analysis, statistical insights,
 ---
 
 ##  Project Scope
-- [Scope item 1]  
-- [Scope item 2]  
-- [Scope item 3]  
-- [Scope item 4]  
-- [Scope item 5]  
+- [Analyze labor force and employment trends in Egypt (2010–2025).]  
+- [Examine unemployment patterns across governorates and demographic groups.]  
+- [Investigate the relationship between educational attainment and labor market outcomes.]  
+- [Analyze gender and urban-rural differences in workforce participation.]  
+- [Identify the most common educational qualifications and skills required across occupations.]  
+- [Explore regional differences in occupational concentration and workforce characteristics.]  
+- [Identify potential gaps between workforce qualifications and job market requirements.]  
+- [Explore future occupational trends and skills requirements up to 2030.]  
 
 >  **Final Deliverable:** [Describe the final output of the project]
 
